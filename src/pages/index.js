@@ -5,13 +5,13 @@ const IndexPage = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Learn to design and code modern apps</h1>
+        <h1>Welcome to my Website</h1>
         <p>
-          Complete courses about the best tools and design systems. Prototype
-          and build apps with React and Swift.
+          My name is Axel Siliezar. Undergraduate Student at Univeristy of
+          California, Merced.
         </p>
-        <p>Now go build something great.</p>
-        <Link to="/page-2/">Watch Video</Link>
+        <p>Please enjoy your stay.</p>
+        <Link to="/page-2/">Start Here</Link>
       </div>
     </div>
   </div>
