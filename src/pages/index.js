@@ -5,7 +5,10 @@ const IndexPage = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
-        <h1>Welcome to my Website</h1>
+        <h1>
+          Welcome to my <br />
+          Website
+        </h1>
         <p>
           My name is Axel Siliezar. Undergraduate Student at Univeristy of
           California, Merced.
