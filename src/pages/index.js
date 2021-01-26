@@ -16,10 +16,10 @@ const IndexPage = () => (
         <p>Please enjoy your stay.</p>
         <Link to="/page-2/">Start Here</Link>
         <div className="Logos">
-          <img src={require("../images/logo-sketch.png")} width="50" />
+          <img src={require("../images/logo-java.png")} width="50" />
           <img src={require("../images/logo-figma.png")} width="50" />
-          <img src={require("../images/logo-studio.png")} width="50" />
-          <img src={require("../images/logo-framer.png")} width="50" />
+          <img src={require("../images/cpp.png")} width="50" />
+          <img src={require("../images/logo-python.png")} width="50" />
           <img src={require("../images/logo-react.png")} width="50" />
           <img src={require("../images/logo-swift.png")} width="50" />
         </div>
